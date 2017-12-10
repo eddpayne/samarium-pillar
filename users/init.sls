@@ -1,0 +1,5 @@
+users:
+  edd.payne:
+    uid: 2000
+    fullname: Edd Payne
+    sshkey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDpRTVf5L2FnO3hosQkzdQ+gm8w9r0/lU52M5ecqxeHjv88hixTfUYtskM0m3TPhPTFKQKZGZPMAy9m27IdyVE37bikFTb6iEFQCHL3LPona7HEFznygbX+vCXFYdIZmBgGmNqDQccedY/R11qxvkgWEBWeP7iWlELePDhHhL7UkqlNf3iIwMwgg6St/pDZMVMyxh2dNC+5B+u7k+c0hS96MTvA8wGNQq5LSRmugz3SthtE2sxyZEUIVcUveQP4JyJUGE3a3ribHoouzBdtXiU4vv8GkqCxPTZB+5dycBRWbDddOAwkqOvXquQHULi8VEYtK+iOFrtnff5pa6NrFlC9 edd@sulphur
